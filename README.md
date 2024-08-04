@@ -4,7 +4,7 @@ Pikachu-Movie-Management-
 功能：创建与维护系统用户、管理用户权限、发布影片与影院信息、创建运营活动、跟踪用户订单、提供售后服务等
 
 前端技术栈：
-Vue3 + TypeScript + Vue-Router + Vuex + Element-Plus + Axios
+Vue3 + TypeScript + Vue-Router + Vuex + Axios
 E-charts+UI component library+ElementPlus
 
 后端技术栈：
