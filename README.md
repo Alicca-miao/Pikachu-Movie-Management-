@@ -17,7 +17,7 @@ Node.js+Express+Multer
 2. mockjs测试数据，封装常用表格及头部组件，封装常用自定义指令，进行逻辑复用；
 3. 权限管理设置，接口测试和动态数据可视化，最后前端部署到nginx上。
 
-创建master+dev+test分支，后续在dev分支上合并特性分支，在test分支上做测试, 在master分支上合并test分支打包上线
+创建master+dev+test分支，后续在dev分支上合并test分支，在test分支上测试, 在master分支上合并test分支打包。
 <img width="970" alt="nginx部署上线" src="https://github.com/user-attachments/assets/e9ba563b-2c38-49d2-a6d4-b263ac60539b">
 <img width="676" alt="打包上线" src="https://github.com/user-attachments/assets/23602bb5-bb11-4f96-8705-afcfb790c23a">
 
@@ -55,6 +55,10 @@ https://github.com/user-attachments/assets/8d9e56dc-92a7-4b40-9519-36e98bca5988
 
 6. mock数据部分
 <img width="992" alt="mock数据" src="https://github.com/user-attachments/assets/1b3d82f6-2fda-41f2-bc55-9d3222f1c977">
+7. 即将上映模块
+
+https://github.com/user-attachments/assets/aafbfd7a-87b9-47b3-8325-70cb99952a43
+
 
 
 
