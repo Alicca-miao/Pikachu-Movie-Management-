@@ -26,7 +26,6 @@ Node.js+Express+Multer
 <img width="407" alt="出错的" src="https://github.com/user-attachments/assets/5e66f871-e607-43e4-be41-d1677a35d782">
 原因：动态参数与另一接口冲突
 
-<img width="1042" alt="部分后端数据" src="https://github.com/user-attachments/assets/b9d80ba4-d4b4-4c34-81f1-02f811ffbdc9">
 
 项目总览：
 1. 登录部分
